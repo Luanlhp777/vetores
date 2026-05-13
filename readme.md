@@ -38,21 +38,27 @@ Consolidar fundamentos em JavaScript
 Melhorar organização de código
 Evoluir na construção de algoritmos
 
+---
+
 ## 📈 Evolução
 
 Este repositório faz parte da minha evolução em programação e desenvolvimento web, servindo como prática contínua para fortalecer lógica de programação e estruturação de soluções utilizando JavaScript.
+
+---
 
 ## 👨‍💻 Autor
 
 Luan Araujo
 Estudante de Análise e Desenvolvimento de Sistemas
 
+---
+
 ## 🔗 GitHub:
 https://github.com/Luanlhp777
 
+---
+
 ## 🌐 Projetos Online:
 
-https://luanlhp777.github.io/meu-site-estudos/
+https://luanlhp777.github.io/meu-site-estudos/<br>
 https://luanlhp777.github.io/exercicios/
-
-⭐ Foco em prática contínua e evolução em lógica de programação.
