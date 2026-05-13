@@ -1,6 +1,6 @@
 # 📘 Vetores em JavaScript
 
-Projeto desenvolvido para prática de lógica de programação utilizando JavaScript, com foco em manipulação de vetores, estruturas de repetição e organização de código.
+Repositório feito para prática de lógica de programação utilizando JavaScript, com foco em manipulação de vetores, estruturas de repetição e organização de código.
 
 Este repositório reúne exercícios práticos realizados durante os estudos de programação, com o objetivo de fortalecer o raciocínio lógico e consolidar fundamentos importantes da linguagem JavaScript.
 
@@ -40,7 +40,7 @@ Evoluir na construção de algoritmos
 
 ## 📈 Evolução
 
-Este projeto faz parte da minha evolução em programação e desenvolvimento web, servindo como prática contínua para fortalecer lógica de programação e estruturação de soluções utilizando JavaScript.
+Este repositório faz parte da minha evolução em programação e desenvolvimento web, servindo como prática contínua para fortalecer lógica de programação e estruturação de soluções utilizando JavaScript.
 
 ## 👨‍💻 Autor
 
@@ -55,4 +55,4 @@ https://github.com/Luanlhp777
 https://luanlhp777.github.io/meu-site-estudos/
 https://luanlhp777.github.io/exercicios/
 
-⭐ Projeto focado em prática contínua e evolução em lógica de programação.
+⭐ Foco em prática contínua e evolução em lógica de programação.
